@@ -25,7 +25,7 @@
 
                 <!-- Logo -->
                 <a href="/" class="logo">
-                    <span class="symbol"><img src="/static/images/cmd_pavicon.png" alt="favicon img" /></span><span class="title">Team De-fine</span>
+                    <span class="symbol"><img src="/static/images/cmd_favicon.png" alt="favicon img" /></span><span class="title">Team De-fine</span>
                 </a>
 
                 <!-- Nav -->

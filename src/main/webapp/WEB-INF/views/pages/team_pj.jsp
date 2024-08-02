@@ -26,7 +26,7 @@
 
             <!-- Logo -->
             <a href="/" class="logo">
-                <span class="symbol"><img src="/static/images/cmd_pavicon.png" alt="" /></span><span class="title">Team De-fine</span>
+                <span class="symbol"><img src="/static/images/cmd_favicon.png" alt="" /></span><span class="title">Team De-fine</span>
             </a>
 
             <!-- Nav -->
@@ -71,7 +71,7 @@
 
             <section>
                 <h2>AI Youtube Project </h2>
-                <span class="image main"><img src="/static/images/pic13.jpg" alt="Project Image" /></span>
+                <span class="image main"><img src="/static/images/define_youtube.png" alt="Project Image" /></span>
                 <p>De-Fine Project YouTube 채널은 혁신적이고 창의적인 콘텐츠를 제공합니다.<br> Team De-Fine은 AI 기술을 활용하여 다양한 소리와 영상을 제작하며, 우리들의 독특한 프로젝트를 통해 시청자들에게 새로운 경험을 선사합니다.<br> 저희 채널에서 최신 프로젝트와 기술 동향을 확인해 보세요.</p>
             </section>
 

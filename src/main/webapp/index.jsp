@@ -82,7 +82,7 @@
                     </article>
                     <article class="style3">
                             <span class="image">
-                                <img src="${pageContext.request.contextPath}/static/images/pic03.jpg" alt=""/>
+                                <img src="${pageContext.request.contextPath}/static/images/youtube_short.png" alt=""/>
                             </span>
                         <a href="https://www.youtube.com/@de-fine-project">
                             <h2>AI Youtube PJ</h2>

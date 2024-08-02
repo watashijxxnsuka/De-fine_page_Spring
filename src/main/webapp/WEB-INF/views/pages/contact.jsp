@@ -100,7 +100,7 @@
                                 <textarea name="message" id="pMessage" placeholder="Enter your message" rows="6" required></textarea>
                             </div>
                             <div class="col-12">
-                                <div class="g-recaptcha" data-sitekey="" data-callback="getRecaptchaToken"></div>
+                                <div class="g-recaptcha" data-sitekey="6LfwwhgqAAAAANuPhG7K-3Qnv0w_nC6qhBmFpgAk" data-callback="getRecaptchaToken"></div>
                             </div>
                             <input type="hidden" name="recaptchaToken" id="recaptchaToken">
                             <div class="col-12">
